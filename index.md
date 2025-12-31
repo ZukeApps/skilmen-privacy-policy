@@ -90,3 +90,26 @@ We may update this Privacy Policy occasionally. Updates will be posted on this p
 
 **App Name:** Skilmen  
 **Email:** cntckw@gmail.com
+
+# Delete Account – Skilmen
+
+Users can request deletion of their Skilmen account and associated personal data.
+
+## How to request account deletion
+
+Please send an email with the following details:
+
+- Registered phone number
+- App name: Skilmen
+- Subject: Account Deletion Request
+
+📧 Email: cntckw@gmail.com
+
+## What happens after deletion
+
+- Your account will be permanently deleted
+- Your personal information will be removed from our servers
+- This process may take up to 7 working days
+
+If you have any questions, please contact us at the email above.
+
